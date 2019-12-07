@@ -1,0 +1,1 @@
+SELECT name from Students where marks > 75 order by substr(name,-3),ID ASC;
